@@ -1,5 +1,0 @@
-0 Musk Ox
-1 Arctic Owl
-2 Arctic Wolf
-3 Polar Bear
-4 Arctic Seal
