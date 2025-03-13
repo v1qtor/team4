@@ -1,2 +1,0 @@
-0 Eiffel Tower
-1 Tower of Pisa
